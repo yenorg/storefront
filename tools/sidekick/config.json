@@ -1,5 +1,5 @@
 {
   "project": "My Project",
   "editUrlLabel": "Document Authoring",
-  "editUrlPattern": "https://da.live/edit#/yenorg/storefront/index.html"
+  "editUrlPattern": "https://da.live/#/yenorg/storefront"
 }
