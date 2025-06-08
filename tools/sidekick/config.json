@@ -1,14 +1,5 @@
 {
-  "owner": "yenorg",
-  "repo": "storefront",
-  "ref": "main",
-  "mountpoint": "/",
-  "host": "aem.live",
-  "plugins": [
-    "preview",
-    "edit",
-    "publish",
-    "status",
-    "reload"
-  ]
+  "project": "My Project",
+  "editUrlLabel": "Document Authoring",
+  "editUrlPattern": "https://da.live/edit#/yenorg/storefront/index.html"
 }
