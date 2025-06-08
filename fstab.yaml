@@ -2,3 +2,6 @@ mountpoints:
   /:
     url: https://content.da.live/yenorg/storefront/
     type: markup
+
+folders:
+  /products/: /products/default
