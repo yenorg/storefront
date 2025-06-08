@@ -3,7 +3,7 @@
   "repo": "storefront",
   "ref": "main",
   "mountpoint": "/",
-  "host": "da.live",
+  "host": "aem.live",
   "plugins": [
     "preview",
     "edit",
