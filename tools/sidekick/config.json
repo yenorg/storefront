@@ -1,5 +1,14 @@
 {
-  "project": "My Project",
-  "editUrlLabel": "Document Authoring",
-  "editUrlPattern": "https://da.live/edit#/yenorg/storefront{{pathname}}"
+  "owner": "yenorg",
+  "repo": "storefront",
+  "ref": "main",
+  "mountpoint": "/",
+  "host": "da.live",
+  "plugins": [
+    "preview",
+    "edit",
+    "publish",
+    "status",
+    "reload"
+  ]
 }
